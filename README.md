@@ -42,18 +42,18 @@ Other useful books are:
 ## Course Schedule
 
 | **Day**   | **Session**     | **Content**                             | **Readings**            |
-| --------- | --------------- | --------------------------------------- | ----------------------- |
-| Thursday  | Morning\        | - ML and supervised learning            | Prince (2024), chs. 1-2 |
-|           | *(9.00-12.00)*  | - Shallow neural networks               | Prince (2024), ch. 3    |
+| :-------- | :-------------- | :-------------------------------------- | :---------------------- |
+| Thursday  | Morning         | - ML and supervised learning            | Prince (2024), chs. 1-2 |
+|           |                 | - Shallow neural networks               | Prince (2024), ch. 3    |
 |           |                 | - Deep neural networks                  | Prince (2024), ch. 4    |
-|           |                 | - Loss functions\                       | Prince (2024), ch. 5    |
+|           |                 | - Loss functions                        | Prince (2024), ch. 5    |
 |           |                 |                                         |                         |
 |           | Afternoon       | - Fitting models                        | Prince (2024), chs. 6-7 |
-|           | *(13.00-16.00)* | - Measuring performance                 | Prince (2024), ch. 8    |
-|           |                 | - Introduction to Python\               |                         |
+|           |                 | - Measuring performance                 | Prince (2024), ch. 8    |
+|           |                 | - Introduction to Python                |                         |
 |           |                 |                                         |                         |
-| Friday    | Morning\        | - Convolutional neural networks (CNNs)\ | Prince (2024), ch. 10   |
-|           | *(9.00-12.00)*  | - CNNs with Python                      |                         |
+| Friday    | Morning         | - Convolutional neural networks (CNNs)  | Prince (2024), ch. 10   |
+|           |                 | - CNNs with Python                      |                         |
 |           |                 |                                         |                         |
 |           | Afternoon       | - Transformers                          | Prince (2024), ch. 12   |
-|           | *(13.00-16.00)* | - Transformers with Python              |                         |
+|           |                 | - Transformers with Python              |                         |
