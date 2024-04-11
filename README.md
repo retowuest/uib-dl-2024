@@ -5,6 +5,8 @@ Reto Wüest
 
 April 18-19, 2024
 
+## Course Content
+
 This two-day workshop serves as an introduction to deep learning with Python for social scientists. Deep learning is of special interest to social scientists because it allows the processing of time-series data, text, images, and more. On the first day, the course starts by providing participants with a high-level overview of machine learning, focusing on supervised learning. It then discusses shallow and deep neural networks as well as techniques we use to fit and assess these models. Subsequently, it briefly introduces the Python programming language. On the second day, the course introduces participants to convolutional neural networks (CNNs) and transformers, which are two widely used deep learning architectures.
 
 Upon successful completion of this course, participants should be able to:
@@ -39,26 +41,19 @@ Other useful books are:
 
 ## Course Schedule
 
-+-----------+-----------------+-----------------------------------------+-------------------------+
 | **Day**   | **Session**     | **Content**                             | **Readings**            |
-+===========+=================+=========================================+=========================+
+| --------- | --------------- | --------------------------------------- | ----------------------- |
 | Thursday  | Morning\        | - ML and supervised learning            | Prince (2024), chs. 1-2 |
 |           | *(9.00-12.00)*  | - Shallow neural networks               | Prince (2024), ch. 3    |
 |           |                 | - Deep neural networks                  | Prince (2024), ch. 4    |
 |           |                 | - Loss functions\                       | Prince (2024), ch. 5    |
 |           |                 |                                         |                         |
-+-----------+-----------------+-----------------------------------------+-------------------------+
 |           | Afternoon       | - Fitting models                        | Prince (2024), chs. 6-7 |
 |           | *(13.00-16.00)* | - Measuring performance                 | Prince (2024), ch. 8    |
 |           |                 | - Introduction to Python\               |                         |
 |           |                 |                                         |                         |
-+-----------+-----------------+-----------------------------------------+-------------------------+
 | Friday    | Morning\        | - Convolutional neural networks (CNNs)\ | Prince (2024), ch. 10   |
 |           | *(9.00-12.00)*  | - CNNs with Python                      |                         |
 |           |                 |                                         |                         |
-+-----------+-----------------+-----------------------------------------+-------------------------+
 |           | Afternoon       | - Transformers                          | Prince (2024), ch. 12   |
 |           | *(13.00-16.00)* | - Transformers with Python              |                         |
-+-----------+-----------------+-----------------------------------------+-------------------------+
-
-: Course Schedule
