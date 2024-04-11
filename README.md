@@ -1,2 +1,5 @@
-# uib-dl-2024
-SAMPOL907: Deep Learning for Social Scientists
+# Deep Learning for Social Scientists
+PhD Course, University of Bergen
+
+Reto Wüest
+April 18-19, 2024
